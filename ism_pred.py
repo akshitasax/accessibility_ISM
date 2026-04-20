@@ -31,7 +31,7 @@ def parse_args():
         "--vcf",
         type=str,
         required=True,
-        help="Path to the variants VCF file"
+        help="Path to the variants VCF file relative to input_dir"
     )
 
     parser.add_argument(
