@@ -1,4 +1,4 @@
-# In-Silico Mutagenesis (ISM) Pipeline
+# ChromBPNet + SuPreMo-lite in-silico mutagenesis (ISM) pipeline
 
 This pipeline provides a modular way to run in-silico mutagenesis using tiled deletions, execute predictions using ChromBPNet and score the resulting variant effect predictions. The main scripts are:
 
